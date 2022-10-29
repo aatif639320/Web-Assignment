@@ -1,0 +1,88 @@
+
+body{
+  background-color: #4FA095;
+}
+
+#dark {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: -40px;
+}
+
+.all {
+  align-items: right;
+}
+
+
+
+.float {
+  float:left:;
+}
+
+
+.container {
+  text-align: center;
+}
+
+p {
+  margin: 0;
+}
+
+.font {
+  font-family: 'Abyssinica SIL', serif;
+}
+
+.down {
+  text-align: center;
+  padding-bottom: 80px;
+  padding-top: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.adjust {
+  text-align: center;
+  text-align: justify;
+
+  margin: 0 30px 0 30px
+}
+
+.jumbotron {
+  background-color: #BAD1C2;
+  margin: 0 40px 30px 40px;
+  box-shadow: 1px 1px 1px 1px grey;
+
+}
+
+.title {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.name {
+
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+.mail {
+
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 50px;
+}
+
+
+
+.contact {
+
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: -10px;
+}
